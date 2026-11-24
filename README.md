@@ -48,9 +48,9 @@
   <a href="https://github.com/nico-alfianto/ppdb">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nico-alfianto&repo=ppdb&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=9ca3af&icon_color=60a5fa" />
   </a>
-  <a href="https://github.com/marchodeviano-byte/tikum_Bps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nico-alfianto&repo=simoner&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=9ca3af&icon_color=60a5fa" />
-  </a>
+<a href="https://github.com/marchodeviano-byte/tikum_Bps">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marchodeviano-byte&repo=tikum_Bps&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=9ca3af&icon_color=60a5fa" />
+</a>
 </p>
 
 ---
