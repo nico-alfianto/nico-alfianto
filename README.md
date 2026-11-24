@@ -1,211 +1,72 @@
 <div align="center">
 
-# Nico Alfianto
+<!-- BANNER GERAK - gelombangnya jalan -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Nico%20Alfianto&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20-%3E%20Insights%20-%3E%20Decisions&descAlignY=60&descAlign=50" width="100%" />
 
-### Data Analyst
+<!-- TULISAN KETIK JALAN TERUS -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Data+Analyst+in+Progress;Python+%7C+SQL+%7C+Power+BI;Let's+build+something+cool!" />
 
+<!-- BADGE -->
 <p>
-  I transform data into meaningful insights through analytics,
-  visualization, and technology.
-</p>
-
-<p>
-  Passionate about Python, SQL, dashboards, and solving real-world problems.
-</p>
-
-<p>
-  <a href="https://nico-alfianto.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://nico-alfianto.github.io/projects.html">
-    <img src="https://img.shields.io/badge/Projects-View%20Projects-0A66C2?style=for-the-badge" alt="Projects">
-  </a>
-  <a href="https://nico-alfianto.github.io/assets/cv/cv_nico.pdf">
-    <img src="https://img.shields.io/badge/CV-Download-2E7D32?style=for-the-badge" alt="Download CV">
-  </a>
-  <a href="mailto:alfiantonico9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-View-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=nico-alfianto&label=Profile%20views&color=2563eb&style=flat" />
 </p>
 
 </div>
 
 ---
 
-## About Me
+### 🛠️ My Stack - Ini stack kita bre
 
-I'm an **Information Systems student** and aspiring **Data Analyst** interested in turning data into meaningful insights and supporting better decision-making through analytics and technology.
-
-My interests include:
-
-* Data Analysis
-* Business Intelligence
-* Data Visualization
-* SQL & Database
-* Python for Data Analysis
-* Information System Analysis & Design
-* Web-Based Information Systems
-
-I'm continuously building projects to strengthen my analytical, technical, and problem-solving skills.
-
----
-
-## Tech Stack
-
-### Data Analysis
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-</p>
-
-### Business Intelligence
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
-</p>
-
-### Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
-  <img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-</p>
-
----
-
-## Featured Projects
-
-### Customer Value Analysis
-
-**RFM Customer Segmentation & Logistic Regression**
-
-Analyzing customer value using RFM analysis and Logistic Regression to identify customer segments and understand factors associated with customer value.
-
-**Tools:** Python, Pandas, SQL, Scikit-learn
-
-[View Project](https://github.com/nico-alfianto/customer-value-analysis-rfm-logistic-regression)
-
----
-
-### Customer Churn Analysis
-
-Analyzing customer churn patterns to identify customer segments and factors associated with customer retention and churn.
-
-**Tools:** Python, Pandas, Seaborn, Google Colab
-
-[View Project](https://github.com/nico-alfianto/customer-churn-analysis)
-
----
-
-### Sales Performance Analysis
-
-Analyzing sales and profitability performance across products, categories, and regions to identify business trends and patterns.
-
-**Tools:** Python, Pandas, Data Visualization
-
-[View Project](https://github.com/nico-alfianto/sales-performance-analysis)
-
----
-
-## Information System Projects
-
-### Ratnalisa Patient Registration System
-
-A web-based patient registration and clinic management system developed using Laravel.
-
-**Tech:** Laravel, PHP, MySQL, Vite, Midtrans
-
-[View Project](https://github.com/nico-alfianto/ratnalisa-patient-registration)
-
----
-
-### PPDB Online
-
-A web-based student admission information system developed for SMK Al-Ghazaly Bogor.
-
-**Tech:** CodeIgniter 3, PHP, MySQL
-
-[View Project](https://github.com/nico-alfianto/ppdb)
-
----
-
-### SIMONER
-
-**Sistem Informasi Monitoring dan Penilaian Kinerja Pegawai**
-
-A web-based information system for monitoring and evaluating employee performance at BPS Kota Bogor.
-
-**Focus:** System Analysis, System Design, Employee Performance Monitoring
-
----
-
-## Certification
-
-### BNSP Certified Database Administrator
-
-Certified in database administration through the **Badan Nasional Sertifikasi Profesi (BNSP)**.
-
----
-
-## Portfolio
+**Kalo orang nanya "stack lu apa?", jawabnya ini:**
 
 <p align="center">
-  <a href="https://nico-alfianto.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-nico--alfianto.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,php,laravel,html,css,js,figma,vscode,github,git&perline=12" />
 </p>
-
-Explore my:
-
-**Projects · Certificates · About · Contact**
-
-[Visit My Portfolio](https://nico-alfianto.github.io/)
-
----
-
-## Connect With Me
 
 <p align="center">
+  <b>Data:</b> Python • Pandas • NumPy • SQL • Excel • Power BI<br>
+  <b>Web:</b> Laravel • PHP • CodeIgniter • HTML • CSS • JavaScript<br>
+  <b>Tools:</b> VS Code • Git • GitHub • Google Colab • Figma
+</p>
 
-<a href="https://github.com/nico-alfianto">
-  <img src="https://img.shields.io/badge/GitHub-nico--alfianto-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://nico-alfianto.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Nico%20Alfianto-0A66C2?style=for-the-badge" alt="Portfolio">
-</a>
-
-<a href="mailto:alfiantonico9@gmail.com">
-  <img src="https://img.shields.io/badge/Email-alfiantonico9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
+<!-- STACK JALAN - badge yang kedip-kedip -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 ---
+
+### 🔥 Featured - Tinggal klik kartunya
+
+<p align="center">
+  <a href="https://github.com/nico-alfianto/customer-value-analysis-rfm-logistic-regression"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nico-alfianto&repo=customer-value-analysis-rfm-logistic-regression&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/nico-alfianto/customer-churn-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nico-alfianto&repo=customer-churn-analysis&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+---
+
+### 🐍 Contribution - Ularnya jalan
+
+<p align="center">
+  <img src="https://github.com/nico-alfianto/nico-alfianto/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nico-alfianto&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 <div align="center">
 
 ### Data → Insights → Decisions
 
-Building projects, learning continuously, and turning data into meaningful insights.
-
-<br>
+📍 Bogor, Indonesia • <a href="https://instagram.com/alfntnico">Instagram</a>
 
 © 2026 Nico Alfianto
 
