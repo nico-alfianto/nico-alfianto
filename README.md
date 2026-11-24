@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner.svg" width="100%" />
 </div>
 
 <p align="center">
@@ -34,14 +34,32 @@
 
 ### Projects
 
-| Project | Deskripsi | Link |
-| --- | --- | --- |
-| **Customer Value Analysis** | RFM + Logistic Regression | [View →](https://github.com/nico-alfianto/customer-value-analysis-rfm-logistic-regression) |
-| **Customer Churn Analysis** | Churn patterns & retention | [View →](https://github.com/nico-alfianto/customer-churn-analysis) |
-| **Sales Performance Analysis** | Sales & profitability | [View →](https://github.com/nico-alfianto/sales-performance-analysis) |
-| **Ratnalisa** | Patient Registration System | [View →](https://github.com/nico-alfianto/ratnalisa-patient-registration) |
-| **PPDB Online** | SMK Al-Ghazaly Bogor | [View →](https://github.com/nico-alfianto/ppdb) |
-| **SIMONER** | Monitoring Kinerja Pegawai BPS | [View →](https://github.com/nico-alfianto/simoner) |
+<p align="center">
+  <a href="https://github.com/nico-alfianto/customer-value-analysis-rfm-logistic-regression">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nico-alfianto&repo=customer-value-analysis-rfm-logistic-regression&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=9ca3af&icon_color=60a5fa" />
+  </a>
+  <a href="https://github.com/nico-alfianto/customer-churn-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nico-alfianto&repo=customer-churn-analysis&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=9ca3af&icon_color=60a5fa" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nico-alfianto/sales-performance-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nico-alfianto&repo=sales-performance-analysis&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=9ca3af&icon_color=60a5fa" />
+  </a>
+  <a href="https://github.com/nico-alfianto/ratnalisa-patient-registration">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nico-alfianto&repo=ratnalisa-patient-registration&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=9ca3af&icon_color=60a5fa" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nico-alfianto/ppdb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nico-alfianto&repo=ppdb&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=9ca3af&icon_color=60a5fa" />
+  </a>
+  <a href="https://github.com/nico-alfianto/simoner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nico-alfianto&repo=simoner&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=9ca3af&icon_color=60a5fa" />
+  </a>
+</p>
 
 ---
 
