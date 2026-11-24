@@ -3,10 +3,18 @@
 </div>
 
 <p align="center">
-  <a href="https://nico-myproject.github.io/">Portfolio</a> •
-  <a href="https://nico-alfianto.github.io/projects.html">Projects</a> •
-  <a href="mailto:alfiantonico9@gmail.com">Email</a> •
-  <a href="https://instagram.com/alfntnico">Instagram</a>
+  <a href="https://nico-myproject.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://nico-alfianto.github.io/projects.html">
+    <img src="https://img.shields.io/badge/Projects-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:alfiantonico9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/alfntnico">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -26,9 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />
 </p>
 
-<p align="center">
-  Python • SQL • Power BI • Excel • Laravel • PHP • HTML • CSS • JavaScript
-</p>
+
 
 ---
 
